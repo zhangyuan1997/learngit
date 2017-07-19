@@ -1,3 +1,3 @@
 Git is pro.
 I love git.
-Git superb.
+Git is new superb.
